@@ -1,5 +1,6 @@
 {
   "name": "task-manager-pwa",
+  "homepage": "https://zahoormehvar-ship-it.github.io/Task-Manager-PWA",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -28,4 +29,3 @@
     ]
   }
 }
-
